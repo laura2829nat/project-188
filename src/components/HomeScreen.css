@@ -1,0 +1,17 @@
+.home-screen {
+    padding: 20px;
+  }
+  
+  .search-bar {
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .media-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+  }
+  

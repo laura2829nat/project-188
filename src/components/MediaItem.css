@@ -1,0 +1,13 @@
+.media-item {
+    text-align: center;
+  }
+  
+  .media-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .media-item p {
+    margin: 10px 0 0;
+  }
+  

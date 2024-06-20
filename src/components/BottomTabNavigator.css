@@ -1,0 +1,21 @@
+.bottom-tab-navigator {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f1f1f1;
+    padding: 10px 0;
+  }
+  
+  .tab-link {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+  }
+  
+  .tab-link:hover {
+    color: #4c00ff;
+  }
+  
